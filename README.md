@@ -5,4 +5,5 @@
  str.pystring concatenation.png
  string format speicifier
  type_conversion.py
+ video link:https://bit.ly/3vmJ4JW
  
